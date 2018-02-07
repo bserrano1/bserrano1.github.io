@@ -9,3 +9,7 @@ body{
 .navbar-inverse .navbar-brand {
     color: white;
 }
+
+hr{
+    max-width: 90%;
+}
